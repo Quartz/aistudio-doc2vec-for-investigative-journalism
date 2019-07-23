@@ -1,4 +1,4 @@
-# aistudio-doc2vec-for-investigative-journalism
+# Quartz AI Studio: Doc2vec for Investigative Journalism
 How Quartz used AI to help reporters search the Mauritius Leaks
 
 ## Try It Yourself
